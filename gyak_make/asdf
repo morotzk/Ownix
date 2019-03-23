@@ -1,0 +1,9 @@
+# gyakorlo make file #
+debug:
+	echo "abrakadabra"
+
+all:
+	echo "all"
+	
+clean:
+	echo "clean"
